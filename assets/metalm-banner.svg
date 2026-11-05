@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">MetaLM</title><desc id="desc">Futuristic DNA-inspired artwork and the tagline From biological questions to executable science.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070B1B"/><stop offset="1" stop-color="#172044"/></linearGradient><linearGradient id="strand" x2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><radialGradient id="glow"><stop stop-color="#5335A9" stop-opacity=".42"/><stop offset="1" stop-color="#5335A9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+<circle cx="1000" cy="190" r="260" fill="url(#glow)"/>
+<g stroke="#6375B9" opacity=".12"> <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/><path d="M100 0V420M200 0V420M300 0V420M400 0V420M500 0V420M600 0V420M700 0V420M800 0V420M900 0V420M1000 0V420M1100 0V420"/></g>
+<g font-family="Arial, Helvetica, sans-serif"><text x="76" y="83" fill="#93C5FD" font-size="18" letter-spacing="5">BIOINFORMATICS  /  AGENTIC AI</text><text x="70" y="219" fill="white" font-size="112" font-weight="700" letter-spacing="-5">Meta<tspan fill="#67E8F9">LM</tspan></text><text x="76" y="273" fill="#D6DEFF" font-size="26">From biological questions</text><text x="76" y="310" fill="#D6DEFF" font-size="26">to executable science.</text><text x="76" y="374" fill="#9BA9C9" font-size="15" letter-spacing="3">RESEARCH PRE-RELEASE  •  UM6P</text></g>
+<g id="dna"></g>
+<script type="application/ecmascript"><![CDATA[]]></script>
+<g fill="none" stroke-linecap="round">
+<path d="M745 82 C835 20 905 155 990 82 S1120 20 1170 82 M745 338 C835 400 905 265 990 338 S1120 400 1170 338" stroke="url(#strand)" stroke-width="6" opacity=".95"/>
+<path d="M745 82 C835 145 905 20 990 82 S1120 145 1170 82 M745 338 C835 275 905 400 990 338 S1120 275 1170 338" stroke="#818CF8" stroke-width="3" opacity=".5"/>
+<path d="M760 102L760 318M790 109L790 311M820 109L820 311M850 102L850 318M880 88L880 332M910 73L910 347M940 67L940 353M970 73L970 347M1000 87L1000 333M1030 102L1030 318M1060 109L1060 311M1090 109L1090 311M1120 102L1120 318M1150 88L1150 332" stroke="#67E8F9" stroke-width="2" opacity=".18"/>
+</g><g fill="#67E8F9"><circle cx="760" cy="102" r="4"/><circle cx="850" cy="102" r="4"/><circle cx="940" cy="67" r="4"/><circle cx="1030" cy="102" r="4"/><circle cx="1120" cy="102" r="4"/></g>
+</svg>
