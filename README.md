@@ -17,6 +17,8 @@
 
 ## A different way to approach metagenomic analysis
 
+<img src="assets/metalm-at-glance.png" alt="MetaLM at Glance" width="100%" />
+
 A biological question rarely arrives with a ready-made pipeline. Between raw sequencing data and a scientific conclusion lie tool choices, parameter decisions, dependencies, execution failures, and interpretation. **MetaLM investigates whether specialized language models can help bridge that gap**, not simply by writing code, but by working within an agentic system that executes and inspects computational analyses.
 
 **Our research question:** Can domain knowledge and execution feedback bring natural-language scientific intent closer to reproducible computational results?
@@ -68,7 +70,7 @@ Star the repository to keep it on your radar, or use **Watch → Custom → Rele
 **College of Computing**  
 **Mohammed VI Polytechnic University (UM6P)**
 
-Research team: **Genereux Akotenou · Youssef Lamrabi · Achraf El Allali**
+<!-- Research team: **Genereux Akotenou · Youssef Lamrabi · Achraf El Allali** -->
 
 <!-- --- -->
 
